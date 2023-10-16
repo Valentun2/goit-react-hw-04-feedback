@@ -1,0 +1,15 @@
+button {
+  padding: 5px 15px;
+  background: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.buttonList {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+.button:hover {
+  background: black;
+  color: white;
+}
